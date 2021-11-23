@@ -5,7 +5,7 @@
 
  Esse projeto foi um desafio de uma empresa, onde tinha que realizar um clonde da landing page sem a parte do formulário. 
  
- Site - https://www.studiouniversofeminino.com.br/
+ Link - https://app.netlify.com/sites/teste-webdesign/overview
 
 
 ### Modelo da Landing Page - Layout :iphone: :desktop_computer:
